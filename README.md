@@ -1,14 +1,12 @@
 <h1 align="center"> Projeto Social </h1>
 
 <p align="center">
-O Projeto Calculadora é um projeto criado para testar meus conhecimentos com lógica de programação e JavaScript.<br/>
-<a href="https://github.com/weslleyrichardi/Projeto-Calculadora">Estude esse projeto em formato de vídeo clicando aqui.</a>
+  O Projeto Calculadora é um projeto criado para testar meus conhecimentos com lógica de programação e JavaScript.<br/>
 </p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
